@@ -1,0 +1,32 @@
+body {
+    background-image: url("https://e0.pxfuel.com/wallpapers/1023/5/desktop-wallpaper-dark-aesthetic-background-dark-aesthetic-star.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+textarea {
+    min-height: 400px;
+}
+
+.emails_card{
+    text-align: center;
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+.sender{
+    float: left;
+    display: inline;
+    text-align: left;
+}
+.subject{
+    margin: auto;
+    display: inline;
+    text-align: center;
+}
+.timestamp{
+    float: right;
+    text-align: right;
+
+}
+
